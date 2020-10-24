@@ -1,7 +1,7 @@
 {
-  "name": "HelloWorld",
-  "version": "1.0.0",
-  "description": "A \"Elec Krabi IOT\" program is a computer program that outputs \"Elec Krabi IOT\" (or some variant) on a display device",
+  "name": "krabiIOT",
+  "version": "1.0.1",
+  "description": "Elec Krabi IOT",
   "keywords": "planet, happiness, people",
   "repository":
   {
@@ -12,18 +12,18 @@
   [
     {
       "name": "Elec Krabi",
-      "email": "",
-      "url": ""
+      "email": "jedsada.us@gmail.com",
+      "url": "https://github.com/jedsada-emertxe/krabiIOT.git"
     },
     {
       "name": "Elec Krabi",
-      "email": "",
-      "url": "",
+      "email": "jedsada.us@gmail.com",
+      "url": "https://github.com/jedsada-emertxe/krabiIOT.git",
       "maintainer": true
     }
   ],
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/jedsada-emertxe/krabiIOT.git",
   "dependencies": {
     "ownername/print": "~1.3.0"
   },
